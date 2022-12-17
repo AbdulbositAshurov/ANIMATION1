@@ -1,0 +1,334 @@
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width:  100%;
+    height: 100VH;
+    color: orange;
+  
+}
+ 
+.h1{
+   
+}
+
+.a{
+    animation-name: a;
+    animation-duration: 3s;
+    
+}
+@keyframes a {
+    from{
+        margin-bottom: -0px;
+        color: orange;
+    }
+    to{
+        margin-bottom: -300px;
+        color: blue;
+    }
+}
+
+.b{
+    animation-name: b;
+    animation-duration: 3s;
+   
+}
+@keyframes b {
+    from{
+       transform: rotateX(100deg);
+       color: yellow;
+     
+}
+    to{
+        color: green;
+    }
+}
+
+.d{
+    animation-name: d;
+    animation-duration: 3s;
+    
+}
+
+@keyframes d{
+    from{
+        margin-right: 0px;
+        color: gray;
+    }
+    to{
+       margin-right: 200PX;
+       color: darkcyan;
+    }
+}
+
+.u{
+    animation-name: u;
+    animation-duration: 3s;
+    
+}
+
+@keyframes u{
+    from{
+      
+        color: rgba(247, 4, 255, 0.945);
+        margin-top: 0px;
+    }
+    to{
+      
+       color: darkcyan;
+       margin-top: 300px;
+    }
+}
+
+
+.l{
+    animation-name: l;
+    animation-duration: 3s;
+   
+}
+
+@keyframes l{
+    from{
+      color: rgba(6, 238, 255, 0.945);
+      
+}
+    to{
+       color: rgb(7, 73, 16);
+     
+}
+}
+.v{
+    animation-name: l;
+    animation-duration: 3s;
+   animation-delay: 2s;
+   
+}
+
+@keyframes l{
+    from{
+      color: rgba(6, 238, 255, 0.945);
+      margin-bottom: 0px;
+      
+}
+    to{
+       color: rgb(7, 73, 16);
+       margin-bottom: 200px;
+}
+}
+
+.o{
+    animation-name: o;
+    animation-duration: 3s;
+   
+   
+}
+
+@keyframes o{
+    from{
+      color: rgba(6, 238, 255, 0.945);
+      margin-bottom: -500px;
+      
+}
+    to{
+       color: rgb(7, 73, 16);
+       margin-bottom: 500px;
+}
+} 
+
+.s{
+    animation-name: s;
+    animation-duration: 3s;
+   
+   
+}
+
+@keyframes s{
+    from{
+        color: rgba(16, 36, 214, 0.582);
+        transform: scaleX(0deg);
+        -webkit-transform: scaleX(0deg);
+        -moz-transform: scaleX(0deg);
+        -ms-transform: scaleX(0deg);
+        -o-transform: scaleX(0deg);
+}
+    to{
+       color: rgb(7, 73, 16);
+       transform: scaleX(440deg);
+       -webkit-transform: scaleX(440deg);
+       -moz-transform: scaleX(440deg);
+       -ms-transform: scaleX(440deg);
+       -o-transform: scaleX(440deg);
+}
+} 
+
+.i{
+    animation-name: i;
+    animation-duration: 3s;
+   
+}
+
+@keyframes i{
+    from{
+      color: rgba(212, 0, 255, 0.945);
+      
+}
+    to{
+       color: rgb(9, 7, 102);
+     
+}
+} 
+
+.t{
+    animation-name: t;
+    animation-duration: 3s;
+    
+}
+
+@keyframes t{
+    from{
+      
+        color: rgba(247, 4, 255, 0.945);
+        margin-top: 0px;
+    }
+    to{
+      
+       color: darkcyan;
+       margin-top: 300px;
+    }
+}
+
+.A{
+    animation-name: a;
+    animation-duration: 3s;
+    
+}
+@keyframes a {
+    from{
+        margin-bottom: -0px;
+        color: orange;
+    }
+    to{
+        margin-bottom: -300px;
+        color: blue;
+    }
+}
+
+.sh{
+    animation-name: b;
+    animation-duration: 3s;
+   
+}
+@keyframes b {
+    from{
+       transform: rotateX(100deg);
+       color: yellow;
+     
+}
+    to{
+        color: green;
+    }
+}
+
+.U{
+    animation-name: U;
+    animation-duration: 3s;
+    
+}
+
+@keyframes U{
+    from{
+        margin-right: 0px;
+        color: gray;
+    }
+    to{
+       margin-right: 200PX;
+       color: darkcyan;
+    }
+}
+
+.r{
+    animation-name: r;
+    animation-duration: 3s;
+    
+}
+
+@keyframes r{
+    from{
+      
+        color: rgba(247, 4, 255, 0.945);
+        margin-top: 0px;
+    }
+    to{
+      
+       color: darkcyan;
+       margin-top: 300px;
+    }
+}
+
+
+.O{
+    animation-name: O;
+    animation-duration: 3s;
+   
+}
+
+@keyframes O{
+    from{
+      color: rgba(6, 238, 255, 0.945);
+      
+}
+    to{
+       color: rgb(7, 73, 16);
+     
+}
+}
+
+.O{
+    animation-name: d;
+    animation-duration: 3s;
+    
+}
+
+@keyframes d{
+    from{
+        margin-right: 0px;
+        color: rgb(233, 31, 31);
+    }
+    to{
+       margin-right: 200PX;
+       color: rgb(110, 255, 14);
+    } 
+}
+
+.V{
+    animation-name: V;
+    animation-duration: 3s;
+   animation-delay: 2s;
+   
+}
+
+@keyframes V{
+    from{
+      color: rgba(6, 238, 255, 0.945);
+      margin-bottom: 0px;
+      
+}
+    to{
+       color: rgb(7, 73, 16);
+       margin-bottom: 200px;
+}
+}
+
+
+
+
+
